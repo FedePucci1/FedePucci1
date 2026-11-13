@@ -14,6 +14,8 @@ At **Summant Technologies**, I work across PNet business logic, SQL data managem
 | [NutriLens](https://github.com/FedePucci1/NutriLens) | Academic team project: food label analysis; my contributions focus on mobile and backend integration | TypeScript, React Native/Expo, Next.js |
 | [Retail Database](https://github.com/FedePucci1/retail-database-sqlserver) | Academic team project: relational modeling, procedures, imports and reports | SQL Server, T-SQL |
 | [Student Management Desktop](https://github.com/FedePucci1/student-management-desktop) | Student administration with persistence and automated tests | Java 25, Swing, JDBC, H2, JUnit |
+| [L1_aho Compiler](https://github.com/FedePucci1/l1-aho-compiler) | Academic team compiler with semantic analysis and assembly generation | Java, JFlex, Java CUP, JUnit |
+| [Banking Product Propensity](https://github.com/FedePucci1/bank-product-propensity) | Individual academic feature engineering and classification notebooks | Python, pandas, scikit-learn, XGBoost |
 
 See the [portfolio index](https://github.com/FedePucci1/portfolio-index) for additional work in compilers, networking, concurrency, embedded systems and data science, including the publication status of each project.
 
